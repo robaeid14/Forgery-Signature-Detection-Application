@@ -1,0 +1,19 @@
+flask==3.0.0
+flask-cors==4.0.0
+flask-jwt-extended==4.6.0
+flask-sqlalchemy==3.1.1
+flask-bcrypt==1.0.1
+pillow==10.2.0
+numpy==1.26.4
+scikit-image==0.22.0
+opencv-python==4.9.0.80
+pyotp==2.9.0
+qrcode[pil]==7.4.2
+reportlab==4.1.0
+openpyxl==3.1.2
+cryptography==42.0.5
+python-dotenv==1.0.1
+# Optional: install for full Siamese CNN+LSTM neural network backend
+# If not installed, the engine uses the CPU feature-based approximation
+# torch==2.2.0
+# torchvision==0.17.0

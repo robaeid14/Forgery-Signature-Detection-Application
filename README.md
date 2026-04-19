@@ -205,4 +205,4 @@ To deploy for 10,000+ users as specified in the SPMR:
 
 ---
 
-**CONFIDENTIAL — WeCare Software Solutions LTD. © 2026**
+**CONFIDENTIAL — WeCare Software Solutions LTD. ©ROBAEID 2026**
